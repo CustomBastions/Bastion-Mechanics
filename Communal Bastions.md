@@ -21,17 +21,6 @@ The actions a room can use can be largely split into two categories, room-wide a
 
 An example would be with [[Bathhouse]] where `Open to the Public` is a room-wide action, while the two actions of `Onsen` and `Spa` are both individual. Another example is with [[Garden]] room, where the `Plentiful Harvet` action is a room-wide one, where the highest leveled player is used to decide the number of harvest actions.
 
-
 ## Exclusivity
 Every player in the bastion raises the cap on how many rooms or features in an exclusivity group can be built by 1 and this allows for duplicates, though this does not duplicate the effects. A player will only count towards this increase if they qualify for any of the rooms or features in the group. I.e., a full martial character will not increase the cap on a spellcaster exclusive group.
 For example, if there are three players in the bastion, then three features of the `Bedroom Bed` can be built. This does allow for perks to stack in unique ways, but that's what makes communal bastions so special.
-
-# TODO
-- [x] How large combined bastions are when they start.
-- [x] How combined bastions expand.
-- [x] How actions and perks work.
-- [x] How level requirements work.
-- [x] How exclusivity groups works, especially when they relate to class features.
-- [x] What happens when a character leaves the bastion.
-- [x] What happens when a new character joins the bastion.
-- [x] How it works when characters are of different levels.
