@@ -7,8 +7,14 @@ assignees: ''
 
 ---
 
-## Mechanics
+## Theme/Vibe/Purpose
+[What is the purpose and vibe of the room. What should be kept in mind when designing it]
 - 
+
+## Mechanics
+[Any mechanics you know it needs]
+- 
+
 
 ## Acceptance Criteria
 - [ ] There is no room feature that is uniquely superior to the other option.
