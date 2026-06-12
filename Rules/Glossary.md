@@ -25,28 +25,29 @@ This is a list of all terms that may require definitions.
 
 ## Room Terms
 
-| Term              | Definition                                                                        |
-| ----------------- | --------------------------------------------------------------------------------- |
-| Cost to Build     | The cost of building the room or feature. It is in GP unless otherwise specified. |
-| Cost to Expand    | The cost of converting a bastion square into a room square of that specific room. |
-| Exclusivity Group |                                                                                   |
-| Expansion Slots   | The number of expansion slots you use while building the room.                    |
-| Hirelings         | The number of hirelings the room needs to run.                                    |
-| Initial Size      |                                                                                   |
-| Max Size          |                                                                                   |
-| Minimum Level     |                                                                                   |
-| Requirements      |                                                                                   |
-| Room              |                                                                                   |
-| [Room] Feature    |                                                                                   |
-| Time to Build     |                                                                                   |
+| Term              | Definition                                                                                                                                                                                                                                                 |
+| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Cost to Build     | The cost of building the structure. It is in GP unless otherwise specified.                                                                                                                                                                                |
+| Cost to Expand    | The cost of converting a bastion square into a room square of that specific room.                                                                                                                                                                          |
+| Exclusivity Group | An exclusivity group is a value that can be given to a structure. If multiple structures share the same exclusivity group, then a solo bastion can only ever have one of said structures at any given time.<br>They work differently in communal bastions. |
+| Expansion Slots   | The number of expansion slots you use while building the room.                                                                                                                                                                                             |
+| Hirelings         | The number of hirelings the room needs to run.                                                                                                                                                                                                             |
+| Initial Size      | The number of connected free bastion squares needed to build the room. These squares will be count as used squares.                                                                                                                                        |
+| Max Size          | This will become the value for the room's max squares.                                                                                                                                                                                                     |
+| Minimum Level     | The minimum level the character needs to be to build the structure.                                                                                                                                                                                        |
+| Requirements      | Any kind of requirement that needs to be fulfilled to build the structure. It can be a specific arrangement of squares, a specific class or species feature needed, or anything else.                                                                      |
+| Room              | The main way bastions affect the game.                                                                                                                                                                                                                     |
+| [Room] Feature    | Room features are expansions to room that add new effects or improve the existing ones. They may sometimes just be called "features", especially when mentioned together with rooms.                                                                       |
+| Structure         | Structure is the general term to refer to both rooms and room features.                                                                                                                                                                                    |
+| Time to Build     | The number of bastion turns it takes to build the structure.                                                                                                                                                                                               |
 
 ## General Rule Terms
 
-| Term           | Definition |
-| -------------- | ---------- |
-| Actions        |            |
-| Bastion Turn   |            |
-| Expansion Slot |            |
-| Hireling       |            |
-| Perks          |            |
+| Term           | Definition                                                                                                                                                                                            |
+| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Actions        | Every room can take one action per bastion turn. They are stronger effects.                                                                                                                           |
+| Bastion Turn   | A bastion turn is the measurement of time between stuff happens at the bastion. It is generally 7 days, but the DM can change it as needed.                                                           |
+| Expansion Slot | Expansion slots are used when building new squares or structures. You have a limited amount available at any given time. They are only unavailable so long as they are being used to build something. |
+| Hireling       | Hirelings are people that come and work in your rooms. They are generally automatically hired and the rooms generate enough to pay for them. More specifics can be found under the hireling rules.    |
+| Perks          | Passive effects that a structure provides. This can be all new effects or enhance existing perks or actions, typically of their room, but it can affect others.                                       |
 

@@ -6,7 +6,8 @@
 **Time to Build** 
 **Cost to Expand** 
 **Requirements** None
-**Exclusive With** None
+**Exclusivity Group** None
+**Expansion Slots** 
 **Minimum Level** 
 **Hirelings** 
 

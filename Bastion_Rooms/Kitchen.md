@@ -6,6 +6,8 @@
 **Time to Build** 2 turns
 **Cost to Expand** 100 GP
 **Requirements** None
+**Exclusivity Group** None
+**Expansion Slots** 1
 **Minimum Level** 5
 **Hirelings** 1
 
@@ -22,7 +24,8 @@
 **Cost to Build** 
 **Time to Build** 
 **Requirements** None
-**Exclusive With** None
+**Exclusivity Group** None
+**Expansion Slots** 1
 **Minimum Level** 7
 **Hirelings Added** 
 
@@ -37,7 +40,8 @@
 **Cost to Build** 
 **Time to Build** 
 **Requirements** None
-**Exclusive With** None
+**Exclusivity Group** None
+**Expansion Slots** 1
 **Minimum Level** 7
 **Hirelings Added** 
 
@@ -52,7 +56,8 @@
 **Cost to Build** 
 **Time to Build** 
 **Requirements** None
-**Exclusive With** None
+**Exclusivity Group** None
+**Expansion Slots** 1
 **Minimum Level** 9
 **Hirelings Added** 
 
