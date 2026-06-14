@@ -1,11 +1,12 @@
 # Bathhouse
-**Type** Trade
 **Initial Size** 9
 **Max Size** 17
 **Cost to Build** 1000 GP
 **Time to Build** 3 turns
 **Cost to Expand** 150 GP
 **Requirements** A 2x3 square area for the bathing area.
+**Exclusivity Group** None
+**Expansion Slots** 1
 **Minimum Level** 9
 **Hirelings** 1
 
@@ -21,7 +22,8 @@
 **Cost to Build** 5000 GP
 **Time to Build** 3 turns
 **Requirements** None
-**Exclusive With** Spa
+**Exclusivity Group** Spa
+**Expansion Slots** 1
 **Minimum Level** 13
 **Hirelings Added** 1
 
@@ -38,7 +40,8 @@
 **Cost to Build** 5000 GP
 **Time to Build** 3 turns
 **Requirements** None
-**Exclusive With** Onsen
+**Exclusivity Group** Onsen
+**Expansion Slots** 1
 **Minimum Level** 13
 **Hirelings Added** 3
 
@@ -55,7 +58,8 @@
 **Cost to Build** 3000 GP
 **Time to Build** 1 turn
 **Requirements** 1x2 square area
-**Exclusive With** None
+**Exclusivity Group** None
+**Expansion Slots** 1
 **Minimum Level** 11
 **Hirelings Added** 1
 
@@ -70,7 +74,8 @@
 **Cost to Build** 3000 GP
 **Time to Build** 1 turn
 **Requirements** 1x2 square area
-**Exclusive With** None
+**Exclusivity Group** None
+**Expansion Slots** 1
 **Minimum Level** 11
 **Hirelings Added** 1
 
@@ -84,7 +89,8 @@
 **Cost to Build** 5000 GP
 **Time to Build** 1 turn
 **Requirements** 2 1x2 square areas
-**Exclusive With** None
+**Exclusivity Group** None
+**Expansion Slots** 1
 **Minimum Level** 11
 **Hirelings Added** 2
 

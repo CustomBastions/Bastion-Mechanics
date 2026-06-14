@@ -1,12 +1,12 @@
 # Workshop
-**Type** Craft
 **Initial Size** 12
 **Max Size** 32
 **Cost to Build** 1000 GP
 **Time to Build** 1 turn
 **Cost to Expand** 100 GP
 **Requirements** None
-**Exclusive With** None
+**Exclusivity Group** None
+**Expansion Slots** 1
 **Minimum Level** 5
 **Hirelings** 1 housed
 
@@ -22,7 +22,8 @@
 **Cost to Build** 
 **Time to Build** 
 **Requirements** None
-**Exclusive With** None
+**Exclusivity Group** None
+**Expansion Slots** 1
 **Minimum Level** 9
 **Hirelings Added** 
 
@@ -31,12 +32,14 @@
 
 #### Action
 
+
 ### Smith's Station
 **Square Cost** 4
 **Cost to Build** 
 **Time to Build** 
 **Requirements** None
-**Exclusive With** None
+**Exclusivity Group** None
+**Expansion Slots** 1
 **Minimum Level** 
 **Hirelings Added** 
 
@@ -44,13 +47,15 @@
 
 
 #### Action
+
 
 ### Leatherworker's Station
 **Square Cost** 4
 **Cost to Build** 
 **Time to Build** 
 **Requirements** None
-**Exclusive With** None
+**Exclusivity Group** None
+**Expansion Slots** 1
 **Minimum Level** 
 **Hirelings Added** 
 
@@ -58,13 +63,15 @@
 
 
 #### Action
+
 
 ### Woodworker's Station
 **Square Cost** 4
 **Cost to Build** 
 **Time to Build** 
 **Requirements** None
-**Exclusive With** None
+**Exclusivity Group** None
+**Expansion Slots** 1
 **Minimum Level** 
 **Hirelings Added** 
 
@@ -72,13 +79,15 @@
 
 
 #### Action
+
 
 ### Weaver's Station
 **Square Cost** 4
 **Cost to Build** 
 **Time to Build** 
 **Requirements** None
-**Exclusive With** None
+**Exclusivity Group** None
+**Expansion Slots** 1
 **Minimum Level** 
 **Hirelings Added** 
 
@@ -87,12 +96,14 @@
 
 #### Action
 
+
 ### Jeweler's Station
 **Square Cost** 4
 **Cost to Build** 
 **Time to Build** 
 **Requirements** None
-**Exclusive With** None
+**Exclusivity Group** None
+**Expansion Slots** 1
 **Minimum Level** 
 **Hirelings Added** 
 

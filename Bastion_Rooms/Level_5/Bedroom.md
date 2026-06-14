@@ -1,11 +1,12 @@
 # Bedroom
-**Type** Empower
 **Initial Size** 4
 **Max Size** 9
 **Cost to Build** 100 GP
 **Time to Build** 1
 **Cost to Expand** 50 GP
 **Requirements** None
+**Exclusivity Group** None
+**Expansion Slots** 1
 **Minimum Level** 5
 **Hirelings** 1
 
@@ -19,6 +20,8 @@
 **Cost to Build** 20000 GP
 **Time to Build** 3 turns
 **Requirements** 2x2 square area.
+**Exclusivity Group** None
+**Expansion Slots** 1
 **Minimum Level** 13
 **Hirelings Added** 1
 
@@ -34,7 +37,8 @@ You can add an additional room inside the closet's subspace. The room is made wh
 **Cost to Build** 500 GP
 **Time to Build** 1 turn
 **Requirements** None
-**Exclusive With** None
+**Exclusivity Group** None
+**Expansion Slots** 1
 **Minimum Level** 7
 **Hirelings Added** 1
 
@@ -49,7 +53,8 @@ You can add an additional room inside the closet's subspace. The room is made wh
 **Cost to Build** 10000 GP
 **Time to Build** 1 turn
 **Requirements** Spellcasting feature
-**Exclusive With** Bed of Pact Binding, Bed of Delayed Energy, Temple of the Mind, Shadow's Rest
+**Exclusivity Group** Bedroom Bed
+**Expansion Slots** 1
 **Minimum Level** 9
 **Hirelings Added** 0
 
@@ -61,7 +66,8 @@ You can add an additional room inside the closet's subspace. The room is made wh
 **Cost to Build** 10000 GP
 **Time to Build** 1 turn
 **Requirements** Pact Magic feature
-**Exclusive With** Bed of Pact Binding, Bed of Delayed Energy, Temple of the Mind, Shadow's Rest
+**Exclusivity Group** Bedroom Bed
+**Expansion Slots** 1
 **Minimum Level** 9
 **Hirelings Added** 0
 
@@ -73,7 +79,8 @@ You can add an additional room inside the closet's subspace. The room is made wh
 **Cost to Build** 10000 GP
 **Time to Build** 1 turn
 **Requirements** Extra Attack feature
-**Exclusive With** Spell-infused Bed, Bed of Pact Binding, Temple of the Mind, Shadow's Rest
+**Exclusivity Group** Bedroom Bed
+**Expansion Slots** 1
 **Minimum Level** 9
 **Hirelings Added** 0
 
@@ -85,7 +92,8 @@ You can add an additional room inside the closet's subspace. The room is made wh
 **Cost to Build** 10000 GP
 **Time to Build** 1 turn
 **Requirements** Focus feature
-**Exclusive With** Spell-infused Bed, Bed of Pact Binding, Bed of Delayed Energy, Shadow's Rest
+**Exclusivity Group** Bedroom Bed
+**Expansion Slots** 1
 **Minimum Level** 9
 **Hirelings Added** 0
 
@@ -97,7 +105,8 @@ You can add an additional room inside the closet's subspace. The room is made wh
 **Cost to Build** 10000 GP
 **Time to Build** 1 turn
 **Requirements** Sneak Attack feature
-**Exclusive With** Spell-infused Bed, Bed of Pact Binding, Bed of Delayed Energy, Temple of the Mind
+**Exclusivity Group** Bedroom Bed
+**Expansion Slots** 1
 **Minimum Level** 9
 **Hirelings Added** 0
 
@@ -110,7 +119,8 @@ You can add an additional room inside the closet's subspace. The room is made wh
 **Cost to Build** 5000 GP
 **Time to Build** 1 turn
 **Requirements** None
-**Exclusive With** None
+**Exclusivity Group** None
+**Expansion Slots** 1
 **Minimum Level** 9
 **Hirelings Added** 0
 
@@ -123,7 +133,7 @@ You can add an additional room inside the closet's subspace. The room is made wh
 **Cost to Build** 5000 GP
 **Time to Build** 1 turn
 **Requirements** None
-**Exclusive With** None
+**Exclusivity Group** None
 **Minimum Level** 9
 **Hirelings Added** 0
 

@@ -3,7 +3,8 @@
 **Cost to Build** 
 **Time to Build** 
 **Requirements** None
-**Exclusive With** None
+**Exclusivity Group** None
+**Expansion Slots** 
 **Minimum Level** 
 **Hirelings Added** 
 
