@@ -1,5 +1,4 @@
 # Bedroom
-**Type** Empower
 **Initial Size** 4
 **Max Size** 9
 **Cost to Build** 100 GP

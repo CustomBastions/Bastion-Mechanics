@@ -1,5 +1,4 @@
 # Bathhouse
-**Type** Trade
 **Initial Size** 9
 **Max Size** 17
 **Cost to Build** 1000 GP

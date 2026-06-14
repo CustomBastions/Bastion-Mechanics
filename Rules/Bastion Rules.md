@@ -1,8 +1,10 @@
 # General
 Bastions have a limited amount of space that can be filled with rooms. This space can be expanded over time, but it's slow process.
-Players should generally get bastions at level 5, and they should start with 20 squares and 1-2 rooms, though the DM may wish to change that depending on the game they wish to run. 
 
 Players can keep their bastions separate and spread out across the world; they can be close together or even a single "bastion" that just functions as a number of smaller bastions; or they can use the rules in [[Communal Bastions]] to create truly combined bastions. The latter might be the most useful if the players want a cohesive party experience.
+
+## Acquiring a Bastion
+Players should generally get bastions at level 5, and they should start with 20 squares and 1-2 rooms, though the DM may wish to change that depending on the game they wish to run. 
 
 ## Bastion Turns
 Bastion turns typically take 7 days, though your DM may wish to change that. It is during the bastion turns that everything happens, though some actions may span multiple turns.
@@ -35,12 +37,7 @@ If your bastion is located away from a settlement or moving, it is expected that
 # Rooms
 Unless otherwise specified, you are only allowed one copy of each room and room feature.
 
-
 ## Breakdown of Parameters
-
-**Type** 
-Rooms can have one or more type that dictate what kind of actions the room is based around. Rooms typically start with one but can gain more through their added features.
-
 **Initial Size** 
 This is the amount squares that will be put in "Used" at the room's construction.
 
@@ -60,7 +57,10 @@ The cost of expanding the room on a per square basis.
 If there is any requirements for the room, be it bastion related, character feature related, or anything else for that matter.
 
 **Exclusivity Group**
-If the room or feature has a value in this field, then you can only build it if you have not already built one with the same value.
+If the structure has a value in this field, then you can only build it if you have not already built one with the same value.
+
+**Expansion Slots**
+The number of expansion slots you need to devote to building the structure.
 
 **Minimum Level** 
 The minimum character level to build this room.
@@ -70,7 +70,7 @@ The number of hirelings required to man the room.
 This is also where it's specified if they're housed hirelings and if the room houses them.
 
 ## Perks
-Perks are benefits granted by a room or its features without you having to actively enable them with an action during a bastion turn.
+Perks are benefits granted by a structure without you having to actively enable them with an action during a bastion turn, though said buffs can be to an actions that has to be activated.
 
 Perks can be anything from passive buffs, synergies with other rooms, or some kind of feature you can use by doing something specific.
 

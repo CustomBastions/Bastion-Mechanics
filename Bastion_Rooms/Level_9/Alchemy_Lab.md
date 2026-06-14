@@ -1,5 +1,4 @@
-# Training Hall
-**Type** 
+# Alchemy Lab
 **Initial Size** 
 **Max Size** 
 **Cost to Build** 
@@ -7,7 +6,7 @@
 **Cost to Expand** 
 **Requirements** None
 **Exclusivity Group** None
-**Expansion Slots** 1
+**Expansion Slots** 
 **Minimum Level** 
 **Hirelings** 
 

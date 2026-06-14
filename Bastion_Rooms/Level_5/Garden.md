@@ -1,5 +1,4 @@
 # Garden
-**Type** Harvest
 **Initial Size** 12
 **Max Size** 48
 **Cost to Build** 500 GP

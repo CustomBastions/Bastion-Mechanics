@@ -1,5 +1,4 @@
 # 
-**Type** 
 **Initial Size** 
 **Max Size** 
 **Cost to Build** 

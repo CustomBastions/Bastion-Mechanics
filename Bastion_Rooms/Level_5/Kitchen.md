@@ -1,5 +1,4 @@
 # Kitchen
-**Type** Enhancement
 **Initial Size** 6
 **Max Size** 12
 **Cost to Build** 600 GP

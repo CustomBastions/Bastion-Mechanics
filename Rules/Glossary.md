@@ -23,7 +23,7 @@ This is a list of all terms that may require definitions.
 | Decorative Square           | These squares are room squares that go above the max squares value. These squares server no purpose except being decoration to allow the player to make their bastion look as they wish. They still cost the same as the room's regular square, but talk with your DM.                                                                          |
 
 
-## Room Terms
+# Room Terms
 
 | Term              | Definition                                                                                                                                                                                                                                                 |
 | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -40,14 +40,16 @@ This is a list of all terms that may require definitions.
 | [Room] Feature    | Room features are expansions to room that add new effects or improve the existing ones. They may sometimes just be called "features", especially when mentioned together with rooms.                                                                       |
 | Structure         | Structure is the general term to refer to both rooms and room features.                                                                                                                                                                                    |
 | Time to Build     | The number of bastion turns it takes to build the structure.                                                                                                                                                                                               |
+|                   |                                                                                                                                                                                                                                                            |
 
-## General Rule Terms
+# General Rule Terms
 
-| Term           | Definition                                                                                                                                                                                            |
-| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Actions        | Every room can take one action per bastion turn. They are stronger effects.                                                                                                                           |
-| Bastion Turn   | A bastion turn is the measurement of time between stuff happens at the bastion. It is generally 7 days, but the DM can change it as needed.                                                           |
-| Expansion Slot | Expansion slots are used when building new squares or structures. You have a limited amount available at any given time. They are only unavailable so long as they are being used to build something. |
-| Hireling       | Hirelings are people that come and work in your rooms. They are generally automatically hired and the rooms generate enough to pay for them. More specifics can be found under the hireling rules.    |
-| Perks          | Passive effects that a structure provides. This can be all new effects or enhance existing perks or actions, typically of their room, but it can affect others.                                       |
+| Term            | Definition                                                                                                                                                                                            |
+| --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Actions         | Every room can take one action per bastion turn. They are stronger effects.                                                                                                                           |
+| Bastion Turn    | A bastion turn is the measurement of time between stuff happens at the bastion. It is generally 7 days, but the DM can change it as needed.                                                           |
+| Expansion Slot  | Expansion slots are used when building new squares or structures. You have a limited amount available at any given time. They are only unavailable so long as they are being used to build something. |
+| Hireling        | Hirelings are people that come and work in your rooms. They are generally automatically hired and the rooms generate enough to pay for them. More specifics can be found under the hireling rules.    |
+| Housed Hireling | A type of hireling that needs a place to live in the bastion.                                                                                                                                         |
+| Perks           | Passive effects that a structure provides. This can be all new effects or enhance existing perks or actions, typically of their room, but it can affect others.                                       |
 

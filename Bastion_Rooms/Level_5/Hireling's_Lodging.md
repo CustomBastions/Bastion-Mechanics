@@ -1,5 +1,4 @@
 # Hireling's Lodging
-**Type** Synergy
 **Initial Size** 6
 **Max Size** no limit
 **Cost to Build** 500 GP

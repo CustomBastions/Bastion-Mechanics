@@ -1,5 +1,4 @@
 # Workshop
-**Type** Craft
 **Initial Size** 12
 **Max Size** 32
 **Cost to Build** 1000 GP
