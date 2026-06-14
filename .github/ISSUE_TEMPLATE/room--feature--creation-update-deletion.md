@@ -1,7 +1,7 @@
 ---
-name: Room [Feature] Update
+name: Room [Feature] Creation/Update/Deletion
 about: Used for issues about adding, changing, or removing bastion rooms or room features.
-title: 'Room [Feature] Update: ROOM/FEATURE'
+title: 'Room [Feature] Creation/Update/Deletion: ROOM/FEATURE'
 labels: Bastion Mechanic, Room [Feature] Update
 assignees: ''
 
@@ -14,7 +14,6 @@ assignees: ''
 ## Mechanics
 [Any mechanics you know it needs]
 - 
-
 
 ## Acceptance Criteria
 - [ ] There is no room feature that is uniquely superior to the other option.
