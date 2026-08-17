@@ -20,7 +20,9 @@
 *Assisting Assistent.* When station room features are added to this room, *The Assistent* can be ordered to assist one of them during a bastion turn. During this turn, the other hiring will have a helper to speed up the process. 
 
 ## Room Features
-### Simple Arcane Core
+
+### Arcane Core
+#### Simple Arcane Core
 **Square Cost** 4
 **Cost to Build** 
 **Time to Build** 
@@ -31,12 +33,12 @@
 **Minimum Level** 5
 **Hirelings Added** 
 
-#### Perks
+##### Perks
 *Basic Arcane Crafting.* You can now craft magic items of uncommon rarity.
 
 *Enhanced Structure.* The magic flowing through the Warehouse expands the max size of the room by 8.
 
-### Advanced Arcane Core
+#### Advanced Arcane Core
 **Square Cost** 6
 **Cost to Build** 
 **Time to Build** 
@@ -47,11 +49,11 @@
 **Minimum Level** 8
 **Hirelings Added** 
 
-#### Perks
+##### Perks
 *Advanced Arcane Crafting.* You can now craft magic items of rare rarity.
 
 *Greatly Enhanced Structure.* The magic flowing through the Warehouse expands the max size of the room by 16.
-### Masterful Arcane Core
+#### Masterful Arcane Core
 **Square Cost** 9
 **Cost to Build** 
 **Time to Build** 
@@ -62,11 +64,11 @@
 **Minimum Level** 11
 **Hirelings Added** 
 
-#### Perks
+##### Perks
 *Arcane Crafting.* You can now craft magic items of very rare rarity.
 
 *Masterfully Enhanced Structure.* The magic flowing through the Warehouse expands the max size of the room by 24.
-### Arcane Core of Legends
+#### Arcane Core of Legends
 **Square Cost** 12
 **Cost to Build** 
 **Time to Build** 
@@ -77,12 +79,12 @@
 **Minimum Level** 14
 **Hirelings Added** 
 
-#### Perks
+##### Perks
 *Arcane Crafting.* You can now craft magic items of legendary rarity.
 
 *Legendarily Enhanced Structure.* The magic flowing through the Warehouse expands the max size of the room by 32.
 
-### Realm-weaving Arcane Core
+#### Realm-weaving Arcane Core
 **Square Cost** 16
 **Cost to Build** 
 **Time to Build** 
@@ -93,103 +95,7 @@
 **Minimum Level** 17
 **Hirelings Added** 
 
-#### Perks
+##### Perks
 *Arcane Crafting.* You can now craft magic items of epic/artifact rarity.
 
 *Realm Enhanced Structure.* The magic flowing through the Warehouse expands the max size of the room by 48.
-
-### Tinker's Station
-**Square Cost** 8
-**Cost to Build** 
-**Time to Build** 
-**Requirements** None
-**Exclusivity Group** None
-**Expansion Slots** 1
-**Minimum Level** 9
-**Hirelings Added** 
-
-#### Perks
-
-
-#### Action
-
-
-### Smith's Station
-**Square Cost** 4
-**Cost to Build** 
-**Time to Build** 
-**Requirements** None
-**Exclusivity Group** None
-**Expansion Slots** 1
-**Minimum Level** 
-**Hirelings Added** 
-
-#### Perks
-
-
-#### Action
-
-
-### Leatherworker's Station
-**Square Cost** 4
-**Cost to Build** 
-**Time to Build** 
-**Requirements** None
-**Exclusivity Group** None
-**Expansion Slots** 1
-**Minimum Level** 
-**Hirelings Added** 
-
-#### Perks
-
-
-#### Action
-
-
-### Woodworker's Station
-**Square Cost** 4
-**Cost to Build** 
-**Time to Build** 
-**Requirements** None
-**Exclusivity Group** None
-**Expansion Slots** 1
-**Minimum Level** 
-**Hirelings Added** 
-
-#### Perks
-
-
-#### Action
-
-
-### Weaver's Station
-**Square Cost** 4
-**Cost to Build** 
-**Time to Build** 
-**Requirements** None
-**Exclusivity Group** None
-**Expansion Slots** 1
-**Minimum Level** 
-**Hirelings Added** 
-
-#### Perks
-
-
-#### Action
-
-
-### Jeweler's Station
-**Square Cost** 4
-**Cost to Build** 
-**Time to Build** 
-**Requirements** None
-**Exclusivity Group** None
-**Expansion Slots** 1
-**Minimum Level** 
-**Hirelings Added** 
-
-#### Perks
-
-
-#### Action
-
