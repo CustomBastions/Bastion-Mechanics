@@ -1,5 +1,5 @@
 # Bastion Rules Snippit
-![[Mechanics/Bastion-Mechanics/Rules/Bastion Rules#Hirelings|Bastion Rules]]
+![[Bastion Rules#Hirelings|Bastion Rules]]
 
 # Specific Rules
 Hirelings come in a few different tiers depending on how skilled they have to be.
