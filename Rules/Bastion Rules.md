@@ -38,36 +38,32 @@ If your bastion is located away from a settlement or moving, it is expected that
 Unless otherwise specified, you are only allowed one copy of each room and room feature.
 
 ## Breakdown of Parameters
-**Initial Size** 
-This is the amount squares that will be put in "Used" at the room's construction.
+### General Parameters
 
-**Max Size** 
-This is the maximum number of squares the room can have.
+| Parameter         | Description                                                                                                                                     |
+| ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Initial Size      | This is the amount squares that will be put in "Used" at the room's construction.                                                               |
+| Max Size          | This is the maximum number of squares the room can have.                                                                                        |
+| Replaces          | This is if the structure replaces an existing structures. This is most common with room features.                                               |
+| Requirements      | If there is any requirements for the room, be it bastion related, character feature related, or anything else for that matter.                  |
+| Exclusivity Group | If the structure has a value in this field, then you can only build it if you have not already built one with the same value.                   |
+| Minimum Level     | The minimum character level to build this room.                                                                                                 |
+| Hirelings         | The number of hirelings required to man the room.<br>This is also where it's specified if they're housed hirelings and if the room houses them. |
 
-**Cost to Build** 
-The cost of building the room's initial squares.
+### Construction Parameters
 
-**Time to Build** 
-How many bastion turns it takes to build the room's initial squares.
-
-**Cost to Expand** 
-The cost of expanding the room on a per square basis.
-
-**Requirements** 
-If there is any requirements for the room, be it bastion related, character feature related, or anything else for that matter.
-
-**Exclusivity Group**
-If the structure has a value in this field, then you can only build it if you have not already built one with the same value.
-
-**Expansion Slots**
-The number of expansion slots you need to devote to building the structure.
-
-**Minimum Level** 
-The minimum character level to build this room.
-
-**Hirelings** 
-The number of hirelings required to man the room.
-This is also where it's specified if they're housed hirelings and if the room houses them.
+| Parameter                    | Description                                                                                                                                                                                                                                                                                                                            |
+| ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Square Cost                  | How many free room squares the feature needs.                                                                                                                                                                                                                                                                                          |
+| Total Squares Used           | The total number of squares used by the room feature needs, counting the ones of replaced features as well.                                                                                                                                                                                                                            |
+| Cost to Build                | The cost of building the room's initial square.                                                                                                                                                                                                                                                                                        |
+| Cost to Expand               | The cost of expanding the room on a per square basis.<br>If the price ends with "*x*", then it means that the cost scales based on the size of the room. If the price is ɴ100*x* and you are building room square 9, then it will cost ɴ900.                                                                                           |
+| Required Square Areas        | This is where certain square area formations can be specified. E.g "2x3" means that of the room feature's total squares used, at least 6 of them must be arranged as a 2x3 formation. A more complex example is "4x(3x5), 3x1", where four instances of 3x5 formations and one 1x3 are needed. These formations can be in orientation. |
+| Additional Ressources Needed | If the structure needs some specific materials that the players have to specifically acquire to build it, it will be listed here.                                                                                                                                                                                                      |
+| Time to Build                | How many bastion turns it takes to build the room.                                                                                                                                                                                                                                                                                     |
+| Construction Goal            | If advanced construction rules are used, then this is the value the construction dice rolls should accumulate to. It is calculated to on average take about equal time as the time to build.                                                                                                                                           |
+| Construction Dice            | If advanced construction rules are used, then this is what is rolled each turn while the structure is under construction. E.g. 1d4, 1d6 + 2, or 4d12 + 24.                                                                                                                                                                             |
+| Expansion Slots              | The number of expansion slots you need to devote to building the structure.                                                                                                                                                                                                                                                            |
 
 ## Perks
 Perks are benefits granted by a structure without you having to actively enable them with an action during a bastion turn, though said buffs can be to an actions that has to be activated.
@@ -82,3 +78,8 @@ Room features are upgrades to existing rooms. They require a certain amount of b
 
 ### Demolishing Room Features
 Room features can be demolished over the span of a bastion turn, during which they do not provide their perks or actions. The gain from selling what can be sold of the feature covers the demolition cost. 
+
+## Advanced Building Time (optional rule)
+For a more immersive experience to simulate random factors during the building process, these rules can be used.
+
+The room will have a target value to reach (Construction Goal) and a dice that is rolled every bastion turn during construction (Construction Dice). The dice total is added to the Construction Value, and when the value reaches or surpasses the goal, the room or feature is constructed. 
