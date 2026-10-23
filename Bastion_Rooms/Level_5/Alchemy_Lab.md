@@ -33,7 +33,7 @@
 <span style="font-size:16px; font-weight:bold;">General</span>
 **Replaces** None
 **Requirements** [[Arcane Core#Advanced Arcane Core|Advanced Arcane Core]]
-**Exclusivity Group** None
+**Exclusivity Group** Cauldron
 **Minimum Level** 11
 **Hirelings** 
 
@@ -110,3 +110,152 @@ Realm-Weaving Core ɴ1,000,000 -> T7 (ɴ1,000,000)
 *Background Brewing.* The hireling can do a however many brews can fit in a bastion turn, so long as you have the materials available. This assumes 8-hour workdays. Throughout this period, they cannot help with anything else.
 
 *Brewing Assistent.* The hireling assists you in brewing a potion, making the time you spend count twice. They must be able to brew potions of at least one rarity category less than what you try to craft. Only one hireling can assist you at a time. For the bastion turn, they devote themselves to helping you as needed. Outside of that they hone their craft, though without producing anything for you.
+
+### Arcane Assistent
+<span style="font-size:18px; font-weight:bold;">Parameters</span>
+<span style="font-size:16px; font-weight:bold;">General</span>
+**Replaces** None
+**Requirements** None
+**Exclusivity Group** None
+**Minimum Level** 5
+**Hirelings** None
+
+<span style="font-size:16px; font-weight:bold;">Construction</span>
+**Square Cost** 4
+**Total Squares Used** 4
+**Cost to Build** ɴ10,000
+**Expansion Slots** 1
+**Required Square Areas** 2x2
+**Additional Ressources Needed** None
+
+**Time to Build** 1
+**Construction Goal** 1
+**Construction Dice** 1d1
+
+<span style="font-size:18px; font-weight:bold;">Description</span>
+The Arcane Assistent is a station that assists with making magic items even for those lacking in the arcane knowledge.
+
+<span style="font-size:18px; font-weight:bold;">Effects</span>
+<span style="font-size:16px; font-weight:bold;">Perks</span>
+*Arcanely Assisted Brewing.* You can make use of the Alchemy Lab to make alchemical magical items even if you are not proficient in Arcana.
+
+### Delayed Reaction Enchantment
+<span style="font-size:18px; font-weight:bold;">Parameters</span>
+<span style="font-size:16px; font-weight:bold;">General</span>
+**Replaces** None
+**Requirements** None
+**Exclusivity Group** None
+**Minimum Level** 11
+**Hirelings** 
+
+<span style="font-size:16px; font-weight:bold;">Construction</span>
+**Square Cost** 
+**Total Squares Used** 
+**Cost to Build** ɴ
+**Expansion Slots** 
+**Required Square Areas** 
+**Additional Ressources Needed** 
+
+**Time to Build** 
+**Construction Goal** 
+**Construction Dice** 
+
+<span style="font-size:18px; font-weight:bold;">Description</span>
+This feature makes it possible to enable an enchantment on the entire laboratory that delays all reactions while its active. This makes it much easier and more reliable to craft more advanced potions.
+
+<span style="font-size:18px; font-weight:bold;">Effects</span>
+<span style="font-size:16px; font-weight:bold;">Perks</span>
+*Delayed Reaction.* You can reduce the time it takes to craft Very Rare or rarer potions by 20% of the original time.
+
+*Reliable Batch Crafting.* When batch crafting, you can treat rolls of 1 as a 2.
+
+### Accelerated Cauldron
+<span style="font-size:18px; font-weight:bold;">Parameters</span>
+<span style="font-size:16px; font-weight:bold;">General</span>
+**Replaces** None
+**Requirements** None
+**Exclusivity Group** Cauldron
+**Minimum Level** 8
+**Hirelings** 
+
+<span style="font-size:16px; font-weight:bold;">Construction</span>
+**Square Cost** 
+**Total Squares Used** 
+**Cost to Build** ɴ
+**Expansion Slots** 
+**Required Square Areas** 
+**Additional Ressources Needed** 
+- Some essences
+- A magic metal cauldron
+
+**Time to Build** 
+**Construction Goal** 
+**Construction Dice** 
+
+<span style="font-size:18px; font-weight:bold;">Description</span>
+
+
+<span style="font-size:18px; font-weight:bold;">Effects</span>
+<span style="font-size:16px; font-weight:bold;">Perks</span>
+*Rapid Brewing.* When you brew a potion using this cauldron, you can reduce the original brewing time by some percent based on its rarity. #Common / #Uncommon / #Rare -> 30%/25%/20%.
+
+### Time-Contracted Cauldron
+<span style="font-size:18px; font-weight:bold;">Parameters</span>
+<span style="font-size:16px; font-weight:bold;">General</span>
+**Replaces** None
+**Requirements** None
+**Exclusivity Group** Cauldron
+**Minimum Level** 14
+**Hirelings** 
+
+<span style="font-size:16px; font-weight:bold;">Construction</span>
+**Square Cost** 
+**Total Squares Used** 
+**Cost to Build** ɴ
+**Expansion Slots** 
+**Required Square Areas** 
+**Additional Ressources Needed** 
+- Legendary Time Essence
+- Specific metal cauldron
+
+**Time to Build** 
+**Construction Goal** 
+**Construction Dice** 
+
+<span style="font-size:18px; font-weight:bold;">Description</span>
+This cauldron contracts the time for whatever's brewing inside of it, with the effect becoming increasingly potent the longer it stays in.
+
+<span style="font-size:18px; font-weight:bold;">Effects</span>
+<span style="font-size:16px; font-weight:bold;">Perks</span>
+*Time-Contracted Brewing.* When you brew a potion using this cauldron, you can reduce the original brewing time by some percent based on its rarity. #VeryRare / #Legendary / #Epic/Artifact -> 10%/15%/20%.
+
+### Essence Distillery Setup
+<span style="font-size:18px; font-weight:bold;">Parameters</span>
+<span style="font-size:16px; font-weight:bold;">General</span>
+**Replaces** None
+**Requirements** None
+**Exclusivity Group** None
+**Minimum Level** 8
+**Hirelings** T4 (ɴ30,000)
+
+<span style="font-size:16px; font-weight:bold;">Construction</span>
+**Square Cost** 
+**Total Squares Used** 
+**Cost to Build** ɴ500,000
+**Expansion Slots** 
+**Required Square Areas** 
+**Additional Ressources Needed** 
+
+**Time to Build** 
+**Construction Goal** 
+**Construction Dice** 
+
+<span style="font-size:18px; font-weight:bold;">Description</span>
+
+
+<span style="font-size:18px; font-weight:bold;">Effects</span>
+<span style="font-size:16px; font-weight:bold;">Perks</span>
+
+
+<span style="font-size:16px; font-weight:bold;">Actions</span>
+*Essence Distilation.* You can spend a turn taking 4 essences of the same rarity and type and refining them into one of the next rarity above it, so long as your Arcane Core can support it.
